@@ -1,0 +1,1 @@
+Sprite.setVelocity(50, 50)
